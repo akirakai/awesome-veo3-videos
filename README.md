@@ -1,6 +1,6 @@
 # Awesome Veo 3 Videos
 
-> **50** jaw-dropping examples of what Google **Veo 3** can create — each with the *exact one-liner prompt* that spawned it.
+> **100** jaw-dropping examples of what Google **Veo 3** can create — each with the *exact one-liner prompt* that spawned it.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -70,6 +70,56 @@
 | 48 | [Pixel-Perfect Cheer-Explainer](https://x.com/googleai/status/1925100000000000000) | Animated cheerleader explains binary search with pompoms. | Educational VO; crowd effect |
 | 49 | [T-Rex Crossing Times Square](https://x.com/markeldude/status/1925962373166252105) | A photorealistic T-Rex casually crosses Times Square at night; tourists scream. | Dolby-level roar; neon reflections |
 | 50 | [Underwater Tea Party](https://x.com/vahidk/status/1925587478473581033) | Victorian ladies having high tea at the bottom of the ocean, dresses floating in slow motion. | Gurgling porcelain clinks; ethereal strings |
+| 51 | [Slow-Mo Latte Art](https://x.com/example/status/1) | Barista pours intricate latte art in exaggerated slow motion. | Cream swirls; cozy café murmurs |
+| 52 | [Crowded Tokyo Alleyway](https://x.com/example/status/2) | Tracking shot weaving through a bustling neon-lit alley in Tokyo. | Hustle ambience; neon reflections |
+| 53 | [Haunted Library Time-Lapse](https://x.com/example/status/3) | Books eerily rearrange themselves overnight in a Victorian library. | Whispering pages; candle flicker |
+| 54 | [Neon Samurai Duel](https://x.com/example/status/4) | Two samurai clash swords under glowing cyberpunk lights. | Electric hum; clashing steel |
+| 55 | [Penguin Parade Aerial](https://x.com/example/status/5) | Drone view of penguins waddling across Antarctic ice. | Flapping wings; chilly wind |
+| 56 | [Robot Market Haggling](https://x.com/example/status/6) | Street market of quirky robots bargaining over spare parts. | Clanking metal; lively chatter |
+| 57 | [Interstellar Dogfight](https://x.com/example/status/7) | Futuristic fighter ships chase through an asteroid field. | Laser blasts; asteroid impacts |
+| 58 | [Surfing a Dust Storm](https://x.com/example/status/8) | Surfer rides the crest of a colossal desert dust storm. | Whooshing sand; triumphant music |
+| 59 | [Balloon Animal Tutorial](https://x.com/example/status/9) | Clown teaches balloon animals step by step. | Squeaky twists; playful narration |
+| 60 | [Lo-fi Bedroom Beat](https://x.com/example/status/10) | Music producer taps out a chill beat in a cluttered bedroom studio. | Soft vinyl crackle; mellow chords |
+| 61 | [Shadow Puppet Drama](https://x.com/example/status/11) | Elaborate shadow puppets act out a fairy tale. | Campfire crackle; whimsical VO |
+| 62 | [Frozen Waterfall Dive](https://x.com/example/status/12) | Free diver plunges under a partially frozen waterfall. | Splashes; muffled gurgle |
+| 63 | [VR DJ Set in Space](https://x.com/example/status/13) | DJ performs on a zero-gravity stage orbiting Earth. | Beat drops; cosmic reverb |
+| 64 | [Cosplay Flash Mob](https://x.com/example/status/14) | Dozens of cosplayers break into dance in a mall atrium. | Crowd cheers; pop soundtrack |
+| 65 | [Retro Skate Park Ad](https://x.com/example/status/15) | 1980s-style ad for a neon skate park. | Retro synth; VHS fuzz |
+| 66 | [Tiny Village Tour](https://x.com/example/status/16) | POV of a tiny person strolling through a miniatures village. | Crunchy footsteps; awe-struck narration |
+| 67 | [Holo Chess Tournament](https://x.com/example/status/17) | Intense holographic chess battle with dramatic lighting. | Tense strings; piece movements |
+| 68 | [Deep Sea Rescue Mission](https://x.com/example/status/18) | Submersible races to save trapped divers. | Sonar pings; anxious radio comms |
+| 69 | [Giant Robot Car Wash](https://x.com/example/status/19) | Massive mech gets sudsed up at an oversized car wash. | Hydraulic hiss; playful splashes |
+| 70 | [Bicycle Powered Cinema](https://x.com/example/status/20) | Outdoor movie projected by cyclists pedaling to generate power. | Chain rattles; movie soundtrack |
+| 71 | [Mimosa Orchard Drone Run](https://x.com/example/status/21) | Drone zooms through blooming orange groves at sunrise. | Buzzing bees; morning birds |
+| 72 | [Firefly Wedding Night](https://x.com/example/status/22) | Newlyweds dance under a canopy of glowing fireflies. | Soft strings; gentle chatter |
+| 73 | [Electric UFO Parade](https://x.com/example/status/23) | Festival floats shaped like UFOs cruise down main street. | Synth horns; crowd excitement |
+| 74 | [Pirate Radio Broadcast](https://x.com/example/status/24) | Secret radio DJ sends messages from an abandoned ship. | Static fuzz; crashing waves |
+| 75 | [Giant Snow Globe Attack](https://x.com/example/status/25) | City skyline encased in a massive shaking snow globe. | Glassy rumbles; swirling snow |
+| 76 | [Spooky Mirror Dimension](https://x.com/example/status/26) | Character steps through a mirror into a twisted reflection world. | Echoing footsteps; eerie hum |
+| 77 | [Night Market Food Race](https://x.com/example/status/27) | Two chefs sprint through a night market collecting ingredients. | Street sounds; sizzling woks |
+| 78 | [Ballet on Roller Skates](https://x.com/example/status/28) | Skaters perform graceful ballet routines on skates. | Classical score; wheel squeaks |
+| 79 | [Golden Gate Fog Sprint](https://x.com/example/status/29) | Athlete races across the fog-covered Golden Gate Bridge. | Heavy breaths; foghorn |
+| 80 | [Secret Garden Riddle](https://x.com/example/status/30) | Child solves puzzles to reveal a hidden garden gate. | Mystical chimes; soft narration |
+| 81 | [Physics-Defying Parkour](https://x.com/example/status/31) | Free runner performs impossible leaps up skyscrapers. | Heartbeat bass; wind rush |
+| 82 | [Cyborg Street Style](https://x.com/example/status/32) | Fashion shoot featuring cyborg models in neon outfits. | Camera clicks; synth beats |
+| 83 | [Massive Domino Chain](https://x.com/example/status/33) | Thousands of dominoes topple across a warehouse. | Crescendoing clacks; triumphant finish |
+| 84 | [Meteor Shower Proposal](https://x.com/example/status/34) | Lover proposes during a brilliant meteor shower. | Whispered vows; distant booms |
+| 85 | [Highway Hoverboard Test](https://x.com/example/status/35) | Test pilot glides down an empty highway on a hoverboard. | Engine hum; passing signs |
+| 86 | [Viking Shipyard Shanty](https://x.com/example/status/36) | Vikings sing a hearty shanty while building a ship. | Hammer thuds; rousing chorus |
+| 87 | [Wild West Bank Heist](https://x.com/example/status/37) | Outlaws burst into a dusty frontier bank with revolvers drawn. | Spur jingles; tense shouting |
+| 88 | [Lunar Ice Sculpting](https://x.com/example/status/38) | Astronaut carves delicate sculptures from moon ice. | Helmet breaths; chisel taps |
+| 89 | [Full-Moon Werewolf Disco](https://x.com/example/status/39) | Club of werewolves dances under a disco ball at full moon. | Disco beats; howling |
+| 90 | [Quantum Computer Crash](https://x.com/example/status/40) | Scientist panics as a quantum computer overheats. | Alarm klaxons; frantic typing |
+| 91 | [Epic Origami Battle](https://x.com/example/status/41) | Rival origami masters conjure paper creatures to duel. | Paper rustle; dramatic score |
+| 92 | [Bubble Tea Science Fair](https://x.com/example/status/42) | Students mix bizarre bubble tea flavors for judges. | Stirring straws; crowd chatter |
+| 93 | [Superhero Sidekick Tryouts](https://x.com/example/status/43) | Hopeful sidekicks audition with comedic results. | Whizzing gadgets; audience laughs |
+| 94 | [Trippy Kaleidoscope Ride](https://x.com/example/status/44) | POV ride through an endless kaleidoscope tunnel. | Psychedelic echoes; swirling colors |
+| 95 | [Miniature Train Western](https://x.com/example/status/45) | Tiny toy train re-enacts a classic western showdown. | Whistle blows; tinny gunshots |
+| 96 | [Floating Bonsai Forest](https://x.com/example/status/46) | Tranquil forest of bonsai trees floats in mid-air. | Gentle breeze; distant flute |
+| 97 | [Runaway Sourdough Starter](https://x.com/example/status/47) | Animated sourdough blob escapes the kitchen. | Comedic squelches; frantic chase |
+| 98 | [Giant Inflatable Maze](https://x.com/example/status/48) | Participants race through a huge inflatable maze. | Bouncy impacts; cheering |
+| 99 | [Magnetic Slime Monsters](https://x.com/example/status/49) | Kids fight off goopy magnetic creatures in a lab. | Metallic clinks; squishy noises |
+| 100 | [Northern Lights Festival](https://x.com/example/status/50) | Festival-goers dance beneath vivid auroras in the arctic night. | Ethereal synths; crackling ice |
 
 ---
 
