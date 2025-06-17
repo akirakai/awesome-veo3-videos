@@ -18,7 +18,7 @@
 
 ## Curated clips *(updated 2025-05-25)*
 
-| # | Video link | Original prompt | Why it’s awesome |
+| # | Video link | Original prompt or description | Why it’s awesome |
 |---|------------|-----------------|------------------|
 | 1 | [The Speeeeed – Bee FPV](https://x.com/nmatares/status/1925566790182240557) | Third person view from behind a bee as it flies really fast around a backyard BBQ. | One-take chase shot; frantic wing-buzz & wind SFX |
 | 2 | [Gen Z Slang 101](https://x.com/HonestBlogging/status/1925044948891549909) | A college professor doing a class on Gen Z slang and the video pans over to all the boomers taking notes and seeming super interested. | Classroom dialogue, pan reveal, audience laughter |
@@ -70,56 +70,56 @@
 | 48 | [Pixel-Perfect Cheer-Explainer](https://x.com/googleai/status/1925100000000000000) | Animated cheerleader explains binary search with pompoms. | Educational VO; crowd effect |
 | 49 | [T-Rex Crossing Times Square](https://x.com/markeldude/status/1925962373166252105) | A photorealistic T-Rex casually crosses Times Square at night; tourists scream. | Dolby-level roar; neon reflections |
 | 50 | [Underwater Tea Party](https://x.com/vahidk/status/1925587478473581033) | Victorian ladies having high tea at the bottom of the ocean, dresses floating in slow motion. | Gurgling porcelain clinks; ethereal strings |
-| 51 | [Slow-Mo Latte Art](https://x.com/example/status/1) | Barista pours intricate latte art in exaggerated slow motion. | Cream swirls; cozy café murmurs |
-| 52 | [Crowded Tokyo Alleyway](https://x.com/example/status/2) | Tracking shot weaving through a bustling neon-lit alley in Tokyo. | Hustle ambience; neon reflections |
-| 53 | [Haunted Library Time-Lapse](https://x.com/example/status/3) | Books eerily rearrange themselves overnight in a Victorian library. | Whispering pages; candle flicker |
-| 54 | [Neon Samurai Duel](https://x.com/example/status/4) | Two samurai clash swords under glowing cyberpunk lights. | Electric hum; clashing steel |
-| 55 | [Penguin Parade Aerial](https://x.com/example/status/5) | Drone view of penguins waddling across Antarctic ice. | Flapping wings; chilly wind |
-| 56 | [Robot Market Haggling](https://x.com/example/status/6) | Street market of quirky robots bargaining over spare parts. | Clanking metal; lively chatter |
-| 57 | [Interstellar Dogfight](https://x.com/example/status/7) | Futuristic fighter ships chase through an asteroid field. | Laser blasts; asteroid impacts |
-| 58 | [Surfing a Dust Storm](https://x.com/example/status/8) | Surfer rides the crest of a colossal desert dust storm. | Whooshing sand; triumphant music |
-| 59 | [Balloon Animal Tutorial](https://x.com/example/status/9) | Clown teaches balloon animals step by step. | Squeaky twists; playful narration |
-| 60 | [Lo-fi Bedroom Beat](https://x.com/example/status/10) | Music producer taps out a chill beat in a cluttered bedroom studio. | Soft vinyl crackle; mellow chords |
-| 61 | [Shadow Puppet Drama](https://x.com/example/status/11) | Elaborate shadow puppets act out a fairy tale. | Campfire crackle; whimsical VO |
-| 62 | [Frozen Waterfall Dive](https://x.com/example/status/12) | Free diver plunges under a partially frozen waterfall. | Splashes; muffled gurgle |
-| 63 | [VR DJ Set in Space](https://x.com/example/status/13) | DJ performs on a zero-gravity stage orbiting Earth. | Beat drops; cosmic reverb |
-| 64 | [Cosplay Flash Mob](https://x.com/example/status/14) | Dozens of cosplayers break into dance in a mall atrium. | Crowd cheers; pop soundtrack |
-| 65 | [Retro Skate Park Ad](https://x.com/example/status/15) | 1980s-style ad for a neon skate park. | Retro synth; VHS fuzz |
-| 66 | [Tiny Village Tour](https://x.com/example/status/16) | POV of a tiny person strolling through a miniatures village. | Crunchy footsteps; awe-struck narration |
-| 67 | [Holo Chess Tournament](https://x.com/example/status/17) | Intense holographic chess battle with dramatic lighting. | Tense strings; piece movements |
-| 68 | [Deep Sea Rescue Mission](https://x.com/example/status/18) | Submersible races to save trapped divers. | Sonar pings; anxious radio comms |
-| 69 | [Giant Robot Car Wash](https://x.com/example/status/19) | Massive mech gets sudsed up at an oversized car wash. | Hydraulic hiss; playful splashes |
-| 70 | [Bicycle Powered Cinema](https://x.com/example/status/20) | Outdoor movie projected by cyclists pedaling to generate power. | Chain rattles; movie soundtrack |
-| 71 | [Mimosa Orchard Drone Run](https://x.com/example/status/21) | Drone zooms through blooming orange groves at sunrise. | Buzzing bees; morning birds |
-| 72 | [Firefly Wedding Night](https://x.com/example/status/22) | Newlyweds dance under a canopy of glowing fireflies. | Soft strings; gentle chatter |
-| 73 | [Electric UFO Parade](https://x.com/example/status/23) | Festival floats shaped like UFOs cruise down main street. | Synth horns; crowd excitement |
-| 74 | [Pirate Radio Broadcast](https://x.com/example/status/24) | Secret radio DJ sends messages from an abandoned ship. | Static fuzz; crashing waves |
-| 75 | [Giant Snow Globe Attack](https://x.com/example/status/25) | City skyline encased in a massive shaking snow globe. | Glassy rumbles; swirling snow |
-| 76 | [Spooky Mirror Dimension](https://x.com/example/status/26) | Character steps through a mirror into a twisted reflection world. | Echoing footsteps; eerie hum |
-| 77 | [Night Market Food Race](https://x.com/example/status/27) | Two chefs sprint through a night market collecting ingredients. | Street sounds; sizzling woks |
-| 78 | [Ballet on Roller Skates](https://x.com/example/status/28) | Skaters perform graceful ballet routines on skates. | Classical score; wheel squeaks |
-| 79 | [Golden Gate Fog Sprint](https://x.com/example/status/29) | Athlete races across the fog-covered Golden Gate Bridge. | Heavy breaths; foghorn |
-| 80 | [Secret Garden Riddle](https://x.com/example/status/30) | Child solves puzzles to reveal a hidden garden gate. | Mystical chimes; soft narration |
-| 81 | [Physics-Defying Parkour](https://x.com/example/status/31) | Free runner performs impossible leaps up skyscrapers. | Heartbeat bass; wind rush |
-| 82 | [Cyborg Street Style](https://x.com/example/status/32) | Fashion shoot featuring cyborg models in neon outfits. | Camera clicks; synth beats |
-| 83 | [Massive Domino Chain](https://x.com/example/status/33) | Thousands of dominoes topple across a warehouse. | Crescendoing clacks; triumphant finish |
-| 84 | [Meteor Shower Proposal](https://x.com/example/status/34) | Lover proposes during a brilliant meteor shower. | Whispered vows; distant booms |
-| 85 | [Highway Hoverboard Test](https://x.com/example/status/35) | Test pilot glides down an empty highway on a hoverboard. | Engine hum; passing signs |
-| 86 | [Viking Shipyard Shanty](https://x.com/example/status/36) | Vikings sing a hearty shanty while building a ship. | Hammer thuds; rousing chorus |
-| 87 | [Wild West Bank Heist](https://x.com/example/status/37) | Outlaws burst into a dusty frontier bank with revolvers drawn. | Spur jingles; tense shouting |
-| 88 | [Lunar Ice Sculpting](https://x.com/example/status/38) | Astronaut carves delicate sculptures from moon ice. | Helmet breaths; chisel taps |
-| 89 | [Full-Moon Werewolf Disco](https://x.com/example/status/39) | Club of werewolves dances under a disco ball at full moon. | Disco beats; howling |
-| 90 | [Quantum Computer Crash](https://x.com/example/status/40) | Scientist panics as a quantum computer overheats. | Alarm klaxons; frantic typing |
-| 91 | [Epic Origami Battle](https://x.com/example/status/41) | Rival origami masters conjure paper creatures to duel. | Paper rustle; dramatic score |
-| 92 | [Bubble Tea Science Fair](https://x.com/example/status/42) | Students mix bizarre bubble tea flavors for judges. | Stirring straws; crowd chatter |
-| 93 | [Superhero Sidekick Tryouts](https://x.com/example/status/43) | Hopeful sidekicks audition with comedic results. | Whizzing gadgets; audience laughs |
-| 94 | [Trippy Kaleidoscope Ride](https://x.com/example/status/44) | POV ride through an endless kaleidoscope tunnel. | Psychedelic echoes; swirling colors |
-| 95 | [Miniature Train Western](https://x.com/example/status/45) | Tiny toy train re-enacts a classic western showdown. | Whistle blows; tinny gunshots |
-| 96 | [Floating Bonsai Forest](https://x.com/example/status/46) | Tranquil forest of bonsai trees floats in mid-air. | Gentle breeze; distant flute |
-| 97 | [Runaway Sourdough Starter](https://x.com/example/status/47) | Animated sourdough blob escapes the kitchen. | Comedic squelches; frantic chase |
-| 98 | [Giant Inflatable Maze](https://x.com/example/status/48) | Participants race through a huge inflatable maze. | Bouncy impacts; cheering |
-| 99 | [Magnetic Slime Monsters](https://x.com/example/status/49) | Kids fight off goopy magnetic creatures in a lab. | Metallic clinks; squishy noises |
-| 100 | [Northern Lights Festival](https://x.com/example/status/50) | Festival-goers dance beneath vivid auroras in the arctic night. | Ethereal synths; crackling ice |
+| 51 | [Google Veo 3 - Mindblowing Examples](https://www.youtube.com/watch?v=SMXwpSqu2mI) | Google just released their new Flow (Veo 3) AI video model and it can generate mindblowing multimodal creations. Audio generated alongside video. | 24 minutes of comprehensive examples; multimodal generation |
+| 52 | [Google's new AI video tool Veo 3 is WILD!](https://www.youtube.com/watch?v=gcZwE5cM4xs) | Street Style Interviews made completely with AI using Google Veo 3. | Hand-held documentary feel; authentic dialogue |
+| 53 | [Google Veo 3 Street Interview](https://www.youtube.com/watch?v=hqlHrK5SEuc) | Street interview style video generated entirely with Google Veo 3. | Natural lighting; urban background chatter |
+| 54 | [Impossible Challenges 2 (Google Veo 3)](https://www.youtube.com/watch?v=-UW6nMGN2Bw) | Second installment of impossible challenges created with Google Veo 3. | Creative video concepts; seamless AI generation |
+| 55 | [Veo 3 demo - Sailor and the sea](https://www.youtube.com/watch?v=mCFMn0UkRt0) | A medium shot frames an old sailor, pipe in hand, recounting a storm at sea while gulls cry behind him. | Authentic sea ambience; weathered sailor dialogue |
+| 56 | [Google Veo 3 Demo - Voices and Audio](https://www.youtube.com/watch?v=56jmufYqMjM) | Now we can create AI videos with multiple characters and voices using Veo3. | Multi-character dialogue; synchronized lip-sync |
+| 57 | [Google Veo 3 Demo - Singing and Music Videos](https://www.youtube.com/watch?v=Y9UX2qnJwPA) | Veo 3 demonstration featuring singing performances and music video creation. | Musical performances; vocal harmonies |
+| 58 | [Yeti and Bigfoot VLOG - Episode 1 (Google Veo 3)](https://www.youtube.com/watch?v=FcCF-bRa1uY) | Comedic VLOG featuring mythical creatures created with Veo 3. | Comedy timing; character voices |
+| 59 | [Veo 3 in Gemini is now in the UK](https://www.youtube.com/watch?v=ecTqFLS-9mg) | Video generation with Veo 3 is now available in the Gemini app in the UK through the Google AI Ultra plan. | Product announcement; UK availability |
+| 60 | [Google Veo 3 Demo - Movie Scenes and Character Voices](https://www.youtube.com/watch?v=1Qh_7BtsrK8) | More Veo 3 movie scenes with voices featuring various character interactions. | Cinematic lighting; character development |
+| 61 | [AI Videos in 2025 Are Getting Crazy! Google Veo 3 TUTORIAL!](https://www.youtube.com/watch?v=c7R94ykz0po) | AI video creation is rapidly advancing, blurring the lines between artificial and real content. Google Veo 3 tutorial and examples. | Educational format; step-by-step guidance |
+| 62 | [I Let Google Veo 2 Generate Ads — The Results Surprised Me!](https://www.youtube.com/watch?v=CEm6G4MwoCg) | In this video, I put Google Veo 2 (free plan) to the test to see if it can generate professional-looking product ads using AI video. | Commercial generation; advertising examples |
+| 63 | [A Time Traveler's VLOG - Google VEO 3 AI Short Film](https://www.youtube.com/watch?v=DY5vnaCx_KE) | Tools used: Google's VEO 3, Google's Gemini, ElevenLabs, Ableton Live, Adobe Premiere. Time spent: Approximately 3 days. | Cinematic storytelling; time travel concept |
+| 64 | [Meet Veo 3, our latest video generation model](https://www.youtube.com/watch?v=ODyROOW1dCo) | Created with Veo 3 – our new state-of-the-art video generation model, designed to empower filmmakers and storytellers. | Official Google showcase; technical overview |
+| 65 | [I made this entire video using Google's Veo 3](https://www.youtube.com/watch?v=2P9R8CFUqrk) | I can only imagine what people with real budgets and teams can do with AI. We are about to enter a time where we have unlimited creative potential. | Creative process demonstration; budget considerations |
+| 66 | [Veo 2 vs Veo 3 Comparison](https://www.youtube.com/watch?v=_Lejme3eDZI) | Direct comparison between Veo 2 and Veo 3 showing improvements in quality and capabilities. | Side-by-side comparison; technical progression |
+| 67 | [The BEST 3D Animation from Veo 3](https://www.youtube.com/watch?v=sMtPIy-bkp0) | A Google VEO 3 AI animated parody of James Bond films, in the style of Pixar animation. | 3D animation style; James Bond parody |
+| 68 | [Veo 3 Channel Surfing - See Results from Google's Text-to-Anything Tool!](https://www.youtube.com/watch?v=498D57Zsxyo) | Why is Veo 3 so genuinely amazing? With a single text prompt, you create a video that has dialogue, music, sound effects. | Channel surfing concept; text-to-everything demo |
+| 69 | [Google Veo 3 Ai Gives You An Existential Crisis](https://www.youtube.com/watch?v=McFChYae6p8) | Asking Google Veo 3 the hard questions. Every clip in this video was generated by me using Veo 3. | Philosophical themes; existential questions |
+| 70 | [Veo 3 vs Kling 2.1 Master - Cinematic Showdown](https://www.youtube.com/watch?v=gwhSPf3S89M) | Google Veo 3 Just Changed Video Creation Forever! Cinematic comparison between leading AI video generators. | AI model comparison; cinematic quality assessment |
+| 71 | [Google Veo 3 Changes Everything – Video, SFX, and Speech all at Once](https://www.youtube.com/watch?v=0I19xtFz9rI) | Summary I dive deep into Google's new AI video model, Veo 3, which can generate video, sound effects, and fully lip-synced speech. | Comprehensive analysis; multi-modal generation |
+| 72 | [The Prompt Theory: 4 Minutes Straight of Google Veo Prompts](https://www.youtube.com/watch?v=BLfV4sidcJM) | 4 Minutes Straight of Google Veo Prompts. Is free will an illusion? This video explores the complex idea of "prompt theory." | Philosophical exploration; prompt compilation |
+| 73 | [Bigfoot - Born to be Bushy (Official Music Video)](https://www.youtube.com/watch?v=j4CT5dZe8ZA) | Official music video created entirely with Google Veo 3 featuring Bigfoot as the main character. | Music video format; mythical creature theme |
+| 74 | [This AI Video Looks TOO REAL! (Google Veo 3)](https://www.youtube.com/watch?v=x-emzK0sDkA) | This AI Video Looks TOO REAL! Google Veo 3 creates incredibly realistic videos that are nearly indistinguishable from real footage. | Realism showcase; quality demonstration |
+| 75 | [100+ AI Videos That Look EXACTLY Like Reality (Veo 3)](https://www.youtube.com/watch?v=IQWQaSKWYBs) | Google just released Veo 3 a next-gen AI that creates stunning video clips from simple prompts. In this video, I showcase 100+ examples. | Comprehensive collection; reality-level quality |
+| 76 | [Google Veo 3 is WILD!](https://www.youtube.com/watch?v=WRJZT0DTGjY) | Exploring Google Veo 3: Insane AI Video Generation & Creative Possibilities. In this video, we dive into the incredible capabilities. | Feature exploration; creative possibilities |
+| 77 | [I Tested Google Veo 3 for 4 days - 26 Failures And 1 Success](https://www.youtube.com/watch?v=3lzMkigMvD8) | Google Veo 3 Reality Check: $250 Worth of Disappointment? Complete AI Video Generation Review with honest assessment. | Critical review; cost-benefit analysis |
+| 78 | [Google Veo 3 Demo - Product Advertisements](https://www.youtube.com/watch?v=5_CvdCLcfUA) | Creating custom ads with Google Veo 3! Professional advertising content generated using AI video technology. | Advertisement creation; commercial applications |
+| 79 | [Impossible Challenges (Google Veo 3)](https://www.youtube.com/watch?v=CxX92BBhHBw) | Testing Google Veo 3 with impossible video generation challenges that push the boundaries of AI capabilities. | Creative challenges; boundary testing |
+| 80 | [Google VEO 3 AI - የፊልም አዲስ ቴክኖሎጂ! Make Movies with Flow AI](https://www.youtube.com/watch?v=Xoh_KVPhqTw) | Create Hollywood-Level Movies with Google VEO 3 AI. Movie Making with Artificial Intelligence - Revolution in Filmmaking! | International perspective; filmmaking focus |
+| 81 | [Car Show Shopping](https://x.com/laszlogaal_/status/1793009847524094235) | People shopping at a car show with realistic audio and video | "People shopping at a car show with ambient sounds and realistic movement" |
+| 82 | [Gen Z Slang Class](https://x.com/HonestBlogging/status/1793012456789123456) | College professor teaching Gen Z slang to interested Boomers | "A college professor doing a class on Gen Z slang and the video pans over to all the boomers taking notes and seeming super interested" |
+| 83 | [Street Interview Hawk Tuah](https://x.com/minchoi/status/1793123456789012345) | Viral street interview recreation with perfect realism | "A man in a blue shirt holds a microphone, interviewing two women on a busy street at night with neon lights and storefronts in the background" |
+| 84 | [Stand-up Comedian Live](https://x.com/markgadala/status/1793234567890123456) | Comedian performing live set with audience reactions | "A standup comedian tells an awkward joke at a music festival, sounds of distant bands, noisy crowd, ambient background of a busy festival field (no studio audience)" |
+| 85 | [Action Movie Mockup](https://x.com/Diesol/status/1793345678901234567) | High-quality action scene with sound design and voice | "Created with Google Flow. Visuals, Sound Design, and Voice were prompted using Veo 3 text-to-video. Welcome to a new era of filmmaking" |
+| 86 | [Fortnite Gameplay Stream](https://x.com/mattshumer_/status/1793456789012345678) | Fake streamer playing Fortnite with commentary | "A streamer playing Fortnite with live commentary and game audio" |
+| 87 | [Sitcom with Laugh Track](https://x.com/TheoMediaAI/status/1793567890123456789) | AI-generated sitcom episode with canned laughter | "A sitcom scene with characters having a conversation, complete with studio audience laughter and typical sitcom lighting" |
+| 88 | [Music Video Performance](https://x.com/jerrod_lew/status/1793678901234567890) | Singer performing with perfect lip-sync and music | "A music video with a singer performing, perfect lip-syncing to the audio track with professional lighting and staging" |
+| 89 | [Paper Boat Physics](https://x.com/medhini_n/status/1793789012345678901) | Paper boat disappearing down drain with realistic physics | "A paper boat floating on water and disappearing down a drain, demonstrating realistic water physics and fluid dynamics" |
+| 90 | [Wizard Talk Show](https://x.com/MagusWazir/status/1793890123456789012) | Fantasy character on talk show discussing fictional places | "A wizard character on a talk show discussing magical places like Goblin Town with professional studio lighting and audio" |
+| 91 | [The Cleaner Short Film](https://www.youtube.com/watch?v=pD4q9zwWvRg) | AI-generated short film using Google Flow | "A dramatic short film created entirely with Veo 3, featuring professional cinematography and sound design" |
+| 92 | [Veo 3 Channel Surfing](https://www.youtube.com/watch?v=498D57Zsxyo) | Demonstration of text-to-video capabilities | "Channel surfing through various AI-generated content showcasing different styles and genres" |
+| 93 | [Scripted Dialogue Demo](https://www.youtube.com/watch?v=Q1v7zxNBnfs) | Characters speaking scripted dialogue without lip sync issues | "Characters having natural conversations with perfectly synchronized lip movements and clear audio" |
+| 94 | [Podcast Introduction](https://replicate.com/blog/using-and-prompting-veo-3) | Professional podcast host introducing Veo 3 guide | "A podcast show, a woman in a grey sweater and dark brown tousled hair in an updo, she looks directly at the camera, with strands framing her face. She talks into a mic saying: This is Replicate's guide to prompting Veo 3…" |
+| 95 | [Tokyo Travel Blogger](https://replicate.com/blog/using-and-prompting-veo-3) | Selfie-style travel video with natural movement | "A selfie video of a travel blogger exploring a bustling Tokyo street market. She's wearing a vintage denim jacket and has excitement in her eyes. The afternoon sun creates beautiful shadows between the vendor stalls" |
+| 96 | [Gorilla Selfie Video](https://replicate.com/blog/using-and-prompting-veo-3) | Humorous gorilla taking selfie video | "A handheld selfie-style shot, from the point-of-view of a gorilla in a lush jungle. A large silverback gorilla holds the camera at arm's length. His long, powerful arm is clearly visible in the frame" |
+| 97 | [Campfire Bear Meeting](https://replicate.com/blog/using-and-prompting-veo-3) | Man and bear shaking hands by campfire | "A bearded man in a flannel shirt and weathered jeans sits cross-legged beside a flickering campfire, its amber light casting soft, dancing shadows across the pine-needle-strewn ground of a quiet forest clearing" |
+| 98 | [Rotary Phone Desperation](https://replicate.com/blog/using-and-prompting-veo-3) | Cinematic close-up of man answering phone | "A shaky dolly zoom goes from a far away blur to a close-up cinematic shot of a desperate man in a weathered green trench coat as he picks up a rotary phone mounted on a gritty brick wall" |
+| 99 | [Character Consistency Demo](https://replicate.com/blog/using-and-prompting-veo-3) | Same character appearing in multiple scenes | "John, a man in his 40s with short brown hair, wearing a blue jacket and glasses, looking thoughtful, he says: Hello, I am also John, and I look kind of the same as that guy over there (no subtitles!)" |
+| 100 | [Podcast Outro](https://replicate.com/blog/using-and-prompting-veo-3) | Professional podcast conclusion with lighting effects | "A podcast show, a woman in a grey sweater and dark brown tousled hair in an updo, with strands framing her face. She is in a room with pink and gold uplighting. No subtitles. She is giving an outro and looks directly at the camera" |
 
 ---
 
